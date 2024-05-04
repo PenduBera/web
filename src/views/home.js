@@ -6,7 +6,7 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Adept Intent Eland</title>
+        <title>Pendu</title>
         <meta property="og:title" content="Adept Intent Eland" />
       </Helmet>
       <div className="home-container01">
